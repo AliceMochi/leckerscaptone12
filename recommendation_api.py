@@ -27,8 +27,3 @@ def process_request():
     rekomendasi_resep_dict = rekomendasi_resep(Bahan, cosine_sim_df, dataset_resep)
 
     return jsonify(rekomendasi_resep_dict)
-
-
-if __name__ == '__main__':
-
-    app.run()

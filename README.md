@@ -20,4 +20,4 @@ gcloud run deploy --image gcr.io/rice-hero-389314/index --platform managed
 ```
 
 ### Test
-Test the code with test/test.py with the Cloud Build image URL
+You can test local with postman before deploy it to the cloud run. and you also can test it in postman again after you deploy to cloud run

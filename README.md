@@ -11,6 +11,9 @@ https://cloud.google.com/sdk/docs/install
 ### 4. Dockerfile, requirements.txt, .dockerignore
 https://cloud.google.com/run/docs/quickstarts/build-and-deploy#containerizing
 ### 5. Cloud build & deploy
+#### a. first you make a Cloud Source Repositories
+![image](https://github.com/AliceMochi/leckerscaptone12/assets/118159857/42b22089-39fe-487f-8e72-e503b01df7f7)
+
 ```
 gcloud builds submit --tag gcr.io/rice-hero-389314/index
 ```

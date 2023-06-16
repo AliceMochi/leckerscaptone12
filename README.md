@@ -20,7 +20,7 @@ https://cloud.google.com/run/docs/quickstarts/build-and-deploy#containerizing
 ![image](https://github.com/AliceMochi/leckerscaptone12/assets/118159857/d530fab4-b0d6-40fb-ba8c-ac7aa77d7538)
 #### d. Please chose the the star * with any branch for branch and dockerfile
 ![image](https://github.com/AliceMochi/leckerscaptone12/assets/118159857/36892f01-34aa-4e17-98e9-db87e2053a0d)
-#### e. You can customasation the evirontment as needed and when done you can click create.
+#### e. You can customasation the evirontment as needed and when done, you can click create.
 ![image](https://github.com/AliceMochi/leckerscaptone12/assets/118159857/1fab3c6c-b18c-41ea-9488-65524cf1dde5)
 ### 5.2. Build & Deploy with cloud shell
 ```
